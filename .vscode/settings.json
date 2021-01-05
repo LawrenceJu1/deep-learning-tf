@@ -1,0 +1,24 @@
+{
+    "python.pythonPath": "C:\\Users\\16134\\anaconda3\\envs\\williw\\python.exe"
+}
+/*
+Remember
+1. Read Research Papers In The Coursera Labs
+
+Practice
+1. Create an Image Classification Network (Done)
+2. Neural Style Transfer 
+3. Object Detection 
+4. Facial Recognition
+5. ResNet, InceptionNet, other networks
+6. Sequence Models
+7. Sentiment Classification
+8. Speech to transcript
+
+To do list
+1. Facial Recognition Unlocking (Phone and Laptop)
+2. Applying Filters (Snapchat Filters on Face)
+3. Translation (Spanish to English)
+4. Voice Activation (Turn on Laptop, Open Apps, Etc)
+5. Upscaling videos (fps increase, pixels increase)
+*/
